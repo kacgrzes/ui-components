@@ -22,7 +22,8 @@
   "dependencies": {
   },
   "devDependencies": {
-    
+    "react": "^16.0.0-beta.3",
+    "react-native": "^0.47.1"
   },
   "peerDependencies": {
     "react": ">=16.0.0-beta.3",

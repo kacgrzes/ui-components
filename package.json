@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/kacgrzes/ui-components.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

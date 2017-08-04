@@ -1,20 +1,34 @@
 {
   "name": "ui-components",
+  "description": "UI components for React Native",
   "version": "0.1.0",
-  "description": "React native components library",
+  "author": "Kacper Grzeszczyk",
   "main": "index.js",
+  "keywords": [
+    "android",
+    "ios",
+    "react",
+    "native",
+    "react-native"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kacgrzes/ui-components.git"
+  },
+  "license": "ISC",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "react",
-    "native"
-  ],
-  "author": "Kacper Grzeszczyk",
-  "license": "ISC",
   "dependencies": {
+  },
+  "devDependencies": {
     "react": "^16.0.0-beta.3",
     "react-dom": "^16.0.0-beta.3",
     "react-native": "^0.47.1"
-  }
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0-beta.3",
+    "react-native": ">=0.47.1"
+  },
+  "readmeFilename": "README.md"
 }

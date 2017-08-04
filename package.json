@@ -11,5 +11,10 @@
     "native"
   ],
   "author": "Kacper Grzeszczyk",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.0.0-beta.3",
+    "react-dom": "^16.0.0-beta.3",
+    "react-native": "^0.47.1"
+  }
 }

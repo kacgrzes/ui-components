@@ -7,6 +7,7 @@
 function loadStories() {
   
   require('../src/atoms/Button/Button.stories.js');
+  require('../src/atoms/Label/Label.stories.js');
   
 }
 

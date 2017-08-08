@@ -8,6 +8,8 @@ function loadStories() {
   
   require('../src/atoms/Button/Button.stories.js');
   require('../src/atoms/Label/Label.stories.js');
+  require('../src/atoms/Separator/Separator.stories.js');
+  require('../src/atoms/StatusBar/StatusBar.stories.js');
   
 }
 

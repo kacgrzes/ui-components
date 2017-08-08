@@ -12,4 +12,4 @@ CenterView.propTypes = {
   children: PropTypes.node.isRequired,
 };
 
-export { CenterView as default };
+export default CenterView
